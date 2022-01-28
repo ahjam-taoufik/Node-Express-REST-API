@@ -1,0 +1,26 @@
+{
+  "name": "node-express-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm",
+    "dev": "nodemon -r esm"
+  },
+  "keywords": [],
+  "author": "Taoufik Ahjam",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "esm": "^3.2.25",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8",
+    "passport-jwt": "^4.0.0"
+  }
+}

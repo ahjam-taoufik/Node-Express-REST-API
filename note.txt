@@ -1,0 +1,7 @@
+
+mongoose.connect(
+  "mongodb+srv://"080277Aa**"@aljiwar1.cysju.mongodb.net/mern-project-cloned",
+  { useNewUrlParser: true, useUnifiedTopology: true }
+)
+
+ 
